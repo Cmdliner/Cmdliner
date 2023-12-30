@@ -12,8 +12,8 @@ I am a Biochemistry student with an insatiable curiosity for the world of words 
 *   🚀  I'm currently working on [Caesura](http://Github.com/caesura)
 *   🧠  I'm learning Rust 🦀🦀
 *   🤝  I'm open to collaborating on Front-end and back-end projects using Node.js, React, Vanilla JS, Django, HTML and CSS
-*   ⚡  I also love reading, writing and researching about new advancement in technology in my spare time<a href="https://www.x.com/yemiTheRustyDev " target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/yemiTheRustyDev ?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+*   ⚡  I also love reading, writing and researching about new advancement in technology in my spare time<a href="https://www.x.com/yemiTheDev " target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/yemiTheDev ?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 ### Skills 
 
 <p align="left">
