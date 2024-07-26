@@ -9,7 +9,7 @@ I am a Biochemistry student with an insatiable curiosity for the world of code. 
 *   🌍  I'm based in Lagos, Nigeria
 *   🖥️  See my portfolio at [here](http://www.adeyemiabiade.tech)
 *   ✉️  You can contact me at [abiadeabdulazeez@gmail.com](mailto:abiadeabdulazeez@gmail.com)
-*   🚀  I'm currently working on [Eather](http://github.com/eather)
+*   🚀  I'm currently working on [Eather](http://github.com/Cmdliner/eather)
 *   🧠  I'm learning Rust 🦀🦀
 *   🤝  I'm open to collaborating on Front-end and back-end projects using Node.js, React, Next.js, Vanilla JS, Python, FastAPI HTML and CSS
 *   ⚡  I also love reading, writing and researching about new advancement in technology in my spare time<a href="https://www.x.com/yemiTheDev " target="_blank" rel="noreferrer"><img
