@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Adeyemi Abiade 
-======================================================================================================================================
+==================================================================================================
 
 Software Developer
 ------------------------
 
-I am a Biochemistry student with an insatiable curiosity for the world of words and code. As a writer, I find inspiration in the realms of poetry and fantasy literature. When I'm not crafting words, you'll find me delving into the world of web development, where I thrive on the backend challenges and the thrill of logical puzzles. I strive to bring creativity and problem-solving together to build meaningful and immersive online experiences.
+I am a Biochemistry student with an insatiable curiosity for the world of code. I strive to bring creativity and problem-solving together to build meaningful and immersive online experiences.
 
 *   🌍  I'm based in Lagos, Nigeria
 *   🖥️  See my portfolio at [here](http://www.adeyemiabiade.tech)
