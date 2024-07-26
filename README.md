@@ -7,16 +7,16 @@ Software Developer
 I am a Biochemistry student with an insatiable curiosity for the world of words and code. As a writer, I find inspiration in the realms of poetry and fantasy literature. When I'm not crafting words, you'll find me delving into the world of web development, where I thrive on the backend challenges and the thrill of logical puzzles. I strive to bring creativity and problem-solving together to build meaningful and immersive online experiences.
 
 *   🌍  I'm based in Lagos, Nigeria
-*   🖥️  See my portfolio at [here](http://adeyemiabiade.vercel.app)
+*   🖥️  See my portfolio at [here](http://www.adeyemiabiade.tech)
 *   ✉️  You can contact me at [abiadeabdulazeez@gmail.com](mailto:abiadeabdulazeez@gmail.com)
-*   🚀  I'm currently working on [Caesura](http://Github.com/caesura)
+*   🚀  I'm currently working on [Eather](http://github.com/eather)
 *   🧠  I'm learning Rust 🦀🦀
-*   🤝  I'm open to collaborating on Front-end and back-end projects using Node.js, React, Vanilla JS, Django, HTML and CSS
+*   🤝  I'm open to collaborating on Front-end and back-end projects using Node.js, React, Next.js, Vanilla JS, Python, FastAPI HTML and CSS
 *   ⚡  I also love reading, writing and researching about new advancement in technology in my spare time<a href="https://www.x.com/yemiTheDev " target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/yemiTheDev ?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 ### Skills 
 
-<div style="">
+<div>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
 
@@ -46,10 +46,7 @@ I am a Biochemistry student with an insatiable curiosity for the world of words 
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-
-<a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-
-<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a></div>
+</div>
                     
 ### Socials
 <div align="left"> <a href="https://www.github.com/Cmdliner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Cmdliner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
