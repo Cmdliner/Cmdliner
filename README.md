@@ -6,7 +6,7 @@ I'm Adeyemi Abiade, a software developer and backend enthusiast. When I'm not de
 - 🖥️ [Portfolio](http://www.adeyemiabiade.tech)
 - ✉️ [Contact me](mailto:abiadeabdulazeez@gmail.com)
 - 🚀 Currently working on [Eather](http://github.com/Cmdliner/eather)
-- 🧠 Learning Rust 🦀
+- 🧠 Learning the intricacies of back-end development
 - 🤝 Open to collaborating on front-end and back-end projects using Node.js, React, Next.js, Vanilla JS, Python, FastAPI, HTML, and CSS
 - ⚡ Research && Tech
 
