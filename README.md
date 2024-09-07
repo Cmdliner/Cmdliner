@@ -116,6 +116,6 @@ I'm Adeyemi Abiade, a software developer and backend enthusiast. When I'm not de
 ## Code Philosophy
 
 > _“In the end, the greatest bug of all is not in the code but in our understanding”_  
-> — Ellen Ullman, _The Bug_
+> — Psi
 
 ---
