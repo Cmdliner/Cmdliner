@@ -28,7 +28,7 @@ I'm Adeyemi Abiade, a software developer and backend enthusiast. When I'm not de
 
 ### Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+<span>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
   </a>
@@ -87,7 +87,7 @@ I'm Adeyemi Abiade, a software developer and backend enthusiast. When I'm not de
 <a href="https://golang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" height="36" alt="Golang" />
 </a>
-</div>
+</span>
 
 
 ## GitHub Profile
