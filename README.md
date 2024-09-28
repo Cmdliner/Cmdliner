@@ -28,7 +28,9 @@ I'm Adeyemi Abiade, a software developer and backend enthusiast. When I'm not de
 
 ### Skills
 
-<span align="left">
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
   </a>
@@ -87,8 +89,7 @@ I'm Adeyemi Abiade, a software developer and backend enthusiast. When I'm not de
 <a href="https://golang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" height="36" alt="Golang" />
 </a>
-</span>
-
+</p>
 
 ## GitHub Profile
 
@@ -103,7 +104,6 @@ I'm Adeyemi Abiade, a software developer and backend enthusiast. When I'm not de
 <a href="https://git.io/streak-stats">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Cmdliner&theme=cobalt&hide_border=true" alt="GitHub Streak" />
 </a>
-
 
 ### Top Languages
 
