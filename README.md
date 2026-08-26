@@ -1,99 +1,41 @@
-# 👋 Hey there! I'm Adeyemi Abiade
+# Abdulazeez Abiade
 
-I'm Adeyemi Abiade, a software developer and backend enthusiast. When I'm not deep in code, I'm probably curled up with a fantasy or sci-fi novel. 🚀📚
+Full-stack engineer with 4+ years shipping production software in fintech, e-commerce, and real-time systems, backed by a First Class Honours degree in Biochemistry.
 
-- 🌍 Based in Lagos, Nigeria
-- 🖥️ [Portfolio](http://www.adeyemiabiade.tech)
-- ✉️ [Contact me](mailto:abiadeabdulazeez@gmail.com)
-- 🚀 Currently working on [Eather](http://github.com/Cmdliner/eather)
-- 🧠 Learning the intricacies of back-end development
-- 🤝 Open to collaborating on front-end and back-end projects using Node.js, React, Next.js, Vanilla JS, Python, FastAPI, HTML, and CSS
-- ⚡ Research && Tech
+I currently lead engineering at **Petroleumprice.ng**, Nigeria's platform for petroleum market intelligence, where I serve as resident chaos master, keeping our systems and products (like the Daily Intelligence Reports) running smoothly for our users. On the side, I'm building **Mercury**, a reconciliation tool that helps business owners track inventory across POS terminals.
 
-## 🌐 Let's Connect
+My biochemistry background is also pulling me toward bioinformatics, applying the same engineering discipline to computational biology.
 
-<a href="https://www.x.com/yemiTheDev" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/yemiTheDev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter Follow" />
-</a>
-<br/>
-<a href="https://www.linkedin.com/in/commandliner" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-follow-blue?logo=linkedin&style=for-the-badge&color=0a66c2&labelColor=ffffff" alt="LinkedIn Follow" />
-</a>
-<br/>
-<a href="https://www.instagram.com/deyemi_._" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Instagram-follow-pink?logo=instagram&style=for-the-badge&color=e4405f&labelColor=ffffff" alt="Instagram Follow" />
-</a>
+- 💼 Lead Software Engineer @ Petroleumprice.ng
+- 🧬 First Class Honours, Biochemistry (LASU), crossing over into bioinformatics
+- 📍 Lagos, Nigeria · open to new roles and interesting collaborations
 
----
+## Featured Work
 
-### Skills
+**[Bringin](https://bringin-tau.vercel.app)** — Peer-to-peer parcel delivery platform connecting verified travelers with senders, cutting courier costs for African communities.
 
-<span align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="36" height="36" alt="FastAPI" /></a>
-<a href="https://golang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" height="36" alt="Golang" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://chakra-ui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.heroku.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-</span>
+**[Pumpay](https://pumpay.co)** — Fuel delivery platform bringing on-demand fuel access to mobile.
 
-## GitHub Profile
+**[Isha's Web Store](#)** — E-commerce platform taking a local business online, with SEO-optimized product pages and secure payments.
 
-### GitHub Stats
+[See more →](https://adeyemiabiade.me/engineering)
 
-<a href="http://www.github.com/Cmdliner">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cmdliner&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Cmdliner's GitHub stats" />
-</a>
+## Stack
 
-### GitHub Streak
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<a href="https://git.io/streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Cmdliner&theme=cobalt&hide_border=true" alt="GitHub Streak" />
-</a>
+## Connect
 
-### Top Languages
-
-<a href="https://github.com/Cmdliner">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cmdliner&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
-
----
-
-## Code Philosophy
-
-> _“In the end, the greatest bug of all is not in the code but in our understanding”_  
-> — Psi
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://adeyemiabiade.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/commandliner)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/yemithedev)
+[![Book a call](https://img.shields.io/badge/Book_a_call-FF6154?style=flat-square&logo=calendly&logoColor=white)](https://cal.com/abiade-azeez-073sdj/30min)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abiadeabdulazeez@gmail.com)
