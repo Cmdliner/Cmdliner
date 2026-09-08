@@ -1,4 +1,4 @@
-# Abdulazeez Abiade
+# Abdulazeez Adeyemi Abiade
 
 Full-stack engineer with 4+ years shipping production software in fintech, e-commerce, and real-time systems, backed by a First Class Honours degree in Biochemistry.
 
